@@ -1,0 +1,37 @@
+https://www.artificialintelligence-news.com/2024/04/15/openai-chooses-tokyo-first-asian-office/
+OpenAI chooses Tokyo for its first Asian office
+About the Author
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+OpenAI has announced the opening of a new office in Tokyo to drive its expansion into the Asian market.
+The new office aims to foster collaboration with the Japanese government, local businesses, and research institutions to develop AI tools tailored to Japan’s unique requirements.
+Tokyo was selected for OpenAI’s first Asian venture due to its global leadership in technology, a culture dedicated to service, and an innovative community.
+“We’re excited to be in Japan which has a rich history of people and technology coming together to do more,” explained Sam Altman, CEO of OpenAI. “We believe AI will accelerate work by empowering people to be more creative and productive, while also delivering broad value to current and new industries that have yet to be imagined.”
+To ensure effective engagement within the local community and spearhead OpenAI’s initiatives in Japan, Tadao Nagasaki has been welcomed as the president of OpenAI Japan. Nagasaki’s role will involve leading commercial and market engagement efforts and building a local team to progress global affairs, go-to-market, communications, operations, and other functions catered to Japan.
+OpenAI is granting local businesses early access to a customised GPT-4 model optimised for the Japanese language. This custom model boasts enhanced performance in translating and summarising Japanese text, offers cost-effectiveness, and operates up to three times faster than its predecessor. 
+Speak – a leading English learning app in Japan – reportedly benefits from faster tutor explanations in Japanese with a significant reduction in token cost, facilitating improved quality of tutor feedback across more applications with higher limits per user.
+The new office positions OpenAI closer to major businesses such as Daikin, Rakuten, and TOYOTA Connected, which are leveraging ChatGPT Enterprise to streamline complex business operations, assist in data analysis, and improve internal reporting.
+Local governments, including Yokosuka City, are adopting the technology to enhance public service efficiency. Yokosuka City has notably expanded ChatGPT access to nearly all city employees, with 80 percent reporting productivity gains.
+The Japanese government’s role as a leading voice in AI policy – especially after chairing the Hiroshima AI Process – aims to foster AI development aligned with human dignity, diversity, and inclusion, and sustainable societies. OpenAI seeks to contribute to the local ecosystem and explore AI solutions for societal challenges, such as rural depopulation and labour shortages, within the region.
+OpenAI’s expansion into Japan highlights its global mission to ensure artificial general intelligence benefits all of humanity, underlining the importance of incorporating diverse perspectives.
+(Photo by Jezael Melgoza)
+See also: US and Japan announce sweeping AI and tech collaboration
+Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
+Explore other upcoming enterprise technology events and webinars powered by TechForge here.
+Tags: asia, japan, openai
+Join our community
+Create your free account now to access all our premium content and recieve the latest tech news to your inbox.
+LATEST ARTICLES
+Mixtral 8x22B sets new benchmark for open models
+SAS aims to make AI accessible regardless of skill set with packaged AI models
+80% of AI decision makers are worried about data privacy and security
+Samsung aims to boost on-device AI with LPDDR5X DRAM
+Kamal Ahluwalia, Ikigai Labs: How to take your business to the next level with generative AI
+Other News
+Events
+Categories
+AI News provides artificial intelligence news and jobs, industry analysis and digital media insight around numerous marketing disciplines; mobile strategy, email marketing, SEO, analytics, social media and much more.
+Please follow this link for our privacy policy.
+Copyright © 2024 AI News. All Rights
+                Reserved.

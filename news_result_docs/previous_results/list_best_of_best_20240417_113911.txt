@@ -1,0 +1,47 @@
+https://apnews.com/article/ai-congress-artificial-intelligence-tiktok-meta-27ba6bcfd2ee7a19c0fd7343bfee6e62
+**Title:** Congressman Enrolls in AI Classes to Understand Regulation
+
+**Summary:** Congressman Don Beyer, at 73 years old, is pursuing a master's degree in machine learning at George Mason University to educate himself about artificial intelligence (AI) and its regulation. As lawmakers grapple with the complexities of AI, efforts like Beyer's highlight the importance of understanding the technology's benefits and risks to shape appropriate legislation. Through education and bipartisan collaboration, Congress aims to strike a balance that fosters AI's potential while addressing potential harms such as job displacement, biased algorithms, and deepfake content.
+
+
+https://www.cnn.com/2024/04/16/tech/microsoft-g42-ai/index.html
+**Title:** Microsoft Expands AI Reach to the Middle East with G42 Investment
+
+**Summary:** Microsoft is investing $1.5 billion in the Abu Dhabi-based G42, an AI group, despite concerns over its ties to China. The partnership aims to collaborate on AI and digital infrastructure, marking Microsoft's first entry into the Middle Eastern AI market. This move could face regulatory scrutiny, especially considering G42's past questions over ties to Beijing.
+
+
+https://motortransport.co.uk/industry-news/brigade-electronics-adds-ai-to-its-backeye-360-camera-system/18537.article
+**Title:** Brigade Electronics Enhances Backeye 360 Camera System with AI
+
+**Summary:** Brigade Electronics has incorporated artificial intelligence technology into its Backeye 360 camera system, enabling real-time detection of humans in vehicle blind spots. The AI-enhanced system provides drivers with a comprehensive 360-degree view of their vehicle, utilizing sophisticated algorithms to alert them of potential risks. The system offers high-definition imaging, multiple viewing options, easy integration with existing infrastructure, and has garnered significant interest during customer trials in the UK and Europe.
+
+
+https://www.pymnts.com/news/artificial-intelligence/2024/google-showcases-expanding-enterprise-ai-capabilities-cloud-next-conference/
+**Title:** Google Showcases Expanded Enterprise AI Capabilities at Cloud Next Conference
+
+**Summary:** Google unveiled new AI-powered capabilities at its Cloud Next event, including Google Vids for collaborative video creation and Gemini Code Assist for AI code completion. Major corporations like Mercedes-Benz, Uber, Walmart, Goldman Sachs, and Carrefour are already leveraging Google's AI for various applications. Google also introduced enhancements to its AI models, improved accuracy in Google Search, new AI agents for different tasks, cybersecurity innovations, and a new AI-powered video creation app called Google Vids designed for workplace use.
+
+
+https://www.theguardian.com/technology/2024/apr/16/child-sexual-abuse-content-online-ai
+### Child Sexual Abuse Content Growing Online with AI-Made Images, Report Reveals
+The National Center for Missing & Exploited Children reports a surge in child sexual exploitation online, including the use of AI-generated images and videos. Reports of online child abuse rose by over 12% in 2023, with instances of financial sexual extortion also increasing. The use of AI to create explicit content poses challenges in identifying real victims, and the quality of reports submitted to authorities needs improvement to effectively combat this growing issue.
+
+
+https://www.benzinga.com/general/24/04/38258816/elon-musk-calls-artificial-intelligence-greatest-potential-breakthrough-in-lifetime-with-caveat-a-sm
+### Title: Elon Musk Calls Artificial Intelligence Greatest Potential Breakthrough In Lifetime With Caveat
+
+### Summary: Elon Musk, recognized with The Breakthrough Prize, shared his views on artificial intelligence and the upcoming presidential elections. Musk highlighted the potential of AI surpassing human intelligence, emphasizing the importance of training AI to be truthful and curious. He also raised concerns about the possibility of AI posing risks to humanity, suggesting the need for responsible AI development.
+
+
+https://www.artificialintelligence-news.com/2024/04/11/us-and-japan-sweeping-ai-tech-collaboration/
+**Title:** US and Japan Unveil Sweeping AI and Tech Collaboration
+
+**Summary:** President Biden and Japanese Prime Minister Kishida Fumio announced various technology initiatives, including a $110 million partnership for cutting-edge AI research, establishing national AI Safety Institutes, robust quantum supply chains, semiconductor collaborations, and workforce training programs. The collaboration emphasizes developing human capital and complementary ecosystems to enhance competitiveness and national security.
+
+
+https://neurosciencenews.com/ai-empathy-25911/
+**Title:** AI vs. Human Empathy: Machine Learning More Empathetic
+
+**Summary:** Research from USC shows that AI-generated messages can make recipients feel more "heard" than responses from untrained humans, demonstrating AI's superior ability to detect and respond to human emotions. However, there is a bias against AI-generated empathy, with recipients feeling less heard when they know a message is from AI. The study emphasizes the importance of understanding and leveraging AI to effectively meet human psychological needs in a world where empathetic connections are dwindling.
+
+

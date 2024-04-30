@@ -1,0 +1,237 @@
+https://backendnews.net/meta-introduces-latest-iteration-of-custom-made-chip-for-ai-workloads/
+**Title:** Meta Introduces Latest Custom-Made Chip for AI Workloads
+
+**Summary:** Meta has unveiled its new Meta Training and Inference Accelerator (MTIA) v1 chip, designed to enhance AI applications such as generative AI products and recommendation systems. The chip offers increased compute power and memory bandwidth, aiming to improve user experiences and optimize AI workloads efficiency within Meta's infrastructure. As Meta continues to invest in custom silicon, it plans to further expand MTIA's capabilities to support emerging technologies and GenAI workloads.
+
+
+https://www.artificialintelligence-news.com/2024/04/11/us-and-japan-sweeping-ai-tech-collaboration/
+**Title:** US and Japan Unveil Sweeping AI and Tech Collaboration
+
+**Summary:** President Biden and Japanese Prime Minister Kishida Fumio announced various technology initiatives, including a $110 million partnership for cutting-edge AI research, establishing national AI Safety Institutes, robust quantum supply chains, semiconductor collaborations, and workforce training programs. The collaboration emphasizes developing human capital and complementary ecosystems to enhance competitiveness and national security.
+
+
+https://newsroom.uvahealth.com/2024/04/15/artificial-intelligence-tool-to-improve-heart-failure-care/
+**Title:** Artificial Intelligence Tool to Improve Heart Failure Care
+
+**Summary:** UVA Health researchers have developed a new risk assessment tool, CARNA, utilizing machine learning and artificial intelligence to predict outcomes for heart failure patients. The tool, publicly available for free, outperformed existing predictors and aims to help clinicians tailor therapies for improved patient outcomes in the face of the growing heart failure problem.
+
+
+https://www.cnn.com/2024/04/16/tech/microsoft-g42-ai/index.html
+**Title:** Microsoft Expands AI Reach to the Middle East with G42 Investment
+
+**Summary:** Microsoft is investing $1.5 billion in the Abu Dhabi-based G42, an AI group, despite concerns over its ties to China. The partnership aims to collaborate on AI and digital infrastructure, marking Microsoft's first entry into the Middle Eastern AI market. This move could face regulatory scrutiny, especially considering G42's past questions over ties to Beijing.
+
+
+https://www.politico.eu/article/spot-deepfake-artificial-intelligence-tools-undermine-eyes-ears/
+**Title:**
+Spot the Deepfake: How AI Tools are Undermining Reality
+
+**Summary:**
+The rise of affordable and accessible generative AI tools is leading to an increase in deepfake content on social media, including false videos, images, and audio clips. With the potential to influence public opinion and impact elections, the ability to detect these digital forgeries is becoming crucial. While AI technology allows for the creation of realistic deepfakes with minimal effort and cost, concerns are growing over the spread of manipulated political content. Initiatives like creating AI-generated audio clips mimic voices to examine the impact of deepfakes on public perception. The next frontier of AI deepfakes is real-time interactive videos, demonstrating the evolving capabilities of this technology
+
+
+https://dellmed.utexas.edu/news/neuroimaging-artificial-intelligence-help-detect-brain-changes-development-of-future-disorder-in-children-of-bipolar-parents
+**Title:** Advances in Neuroimaging and Artificial Intelligence for Early Detection of Bipolar Disorder in Children of Affected Parents
+
+**Summary:** Researchers at Dell Medical School are utilizing neuroimaging techniques and AI to identify brain changes in children of adults with bipolar disorder. By understanding brain connectivity and the reward system's impact, they aim to enhance early treatment and improve long-term outcomes for individuals at risk of developing bipolar disorder. This groundbreaking study examines brain maturation and early signs of the disorder, offering hope for effective prevention strategies.
+
+
+https://www.independent.co.uk/tech/ai-artifiical-intelligence-godfather-yann-lecunn-meta-b2527873.html
+**Title:** The Godfather of AI Criticizes Current State of Artificial Intelligence
+
+**Summary:** Yann LeCun, Meta’s chief AI scientist, criticized the current state of artificial intelligence, stating that machine learning "sucks" compared to the learning capabilities of animals and humans. LeCun suggests a need for a change in direction to achieve the sci-fi future potential of AI.
+
+
+https://www.pymnts.com/artificial-intelligence-2/2024/uk-drafting-ai-regulations-but-not-rushing-to-introduce-them/
+**Title:** UK Takes Steps in Drafting AI Regulations
+
+**Summary:** The United Kingdom is in the early stages of drafting regulations to govern artificial intelligence (AI), with plans to introduce a bill in late 2024 or early 2025. The government aims to address AI legislation following a conference on the topic. Additionally, efforts are underway to add rules to UK copyright legislation to protect content from being used by AI language models.
+
+
+https://discover.lanl.gov/news/0415-venado/
+**Title:** Venado Supercomputer Unveiled at Los Alamos
+
+**Summary:** Los Alamos National Laboratory, in collaboration with Hewlett Packard Enterprise (HPE) and NVIDIA, has introduced Venado, its latest supercomputer. Featuring NVIDIA Grace Hopper Superchips, Venado demonstrates exceptional performance in atomistic simulations and astrophysics. The system, powered by a combination of Arm-based CPUs and NVIDIA GPUs, marks significant progress in integrating AI into scientific research, with a focus on materials science and renewable energy applications.
+
+
+https://news.mit.edu/2024/new-ai-method-captures-uncertainty-medical-images-0411
+**Title:**
+New AI Tool Tyche Captures Uncertainty in Medical Images
+
+**Summary:**
+A new AI tool called Tyche has been developed by researchers at MIT, the Broad Institute of MIT and Harvard, and Massachusetts General Hospital to capture uncertainty in medical images. Tyche provides multiple plausible segmentations for a given medical image, allowing clinicians and researchers to consider different options and make more informed decisions based on the variability in interpretations. The tool does not require retraining and can be applied to various medical image segmentation tasks, potentially improving diagnoses and aiding in biomedical research.
+
+
+https://www.news-medical.net/news/20240415/AI-offers-hope-for-enhanced-cataract-surgery-in-developing-nations.aspx
+**Title:** AI offers hope for enhanced cataract surgery in developing nations
+
+**Summary:** Researchers from the University Hospital Bonn, the University of Bonn, the Sankara Eye Foundation India, and Microsoft Research India are working on developing an algorithm using artificial intelligence to automate the analysis of surgical videos for cataract surgeries performed in developing nations. This initiative aims to improve surgical outcomes and training in regions where cataract surgery results are often inadequate due to insufficient training.
+
+
+https://www.investopedia.com/meta-unveils-its-latest-ai-chip-here-is-what-you-need-to-know-8629599
+**Title:** Meta Unveils Next Gen AI Chip to Compete with Industry Leaders
+
+**Summary:** Meta Platforms introduces its latest custom artificial intelligence chip, the Next Gen Meta Training and Inference Accelerator (MTIA), aiming to reduce dependency on Nvidia. The chip promises three times better performance and improved energy efficiency, as Meta, Google, Microsoft, and Amazon strive to internally develop AI-capable custom chips amid the AI boom.
+
+
+https://apnews.com/article/ai-congress-artificial-intelligence-tiktok-meta-27ba6bcfd2ee7a19c0fd7343bfee6e62
+**Title:** Congressman Enrolls in AI Classes to Understand Regulation
+
+**Summary:** Congressman Don Beyer, at 73 years old, is pursuing a master's degree in machine learning at George Mason University to educate himself about artificial intelligence (AI) and its regulation. As lawmakers grapple with the complexities of AI, efforts like Beyer's highlight the importance of understanding the technology's benefits and risks to shape appropriate legislation. Through education and bipartisan collaboration, Congress aims to strike a balance that fosters AI's potential while addressing potential harms such as job displacement, biased algorithms, and deepfake content.
+
+
+https://www.forbes.com/sites/roberthart/2024/04/16/what-to-know-about-g42-the-emirati-ai-giant-that-just-got-a-15-billion-investment-from-microsoft/
+**Title:** Microsoft Invests $1.5 Billion in Emirati AI Firm G42: What You Need to Know
+
+**Summary:** Microsoft has decided to invest $1.5 billion in the prominent UAE-based artificial intelligence company G42, signaling increasing partnerships between the US and Abu Dhabi in the AI sector. This move comes amidst global competition, particularly with China, as countries strive to lead in AI development. G42, chaired by a prominent member of Abu Dhabi's royal family, has strong ties with major companies and has recently severed its connections with China to align with US interests. The deal includes collaboration on AI services, using Microsoft's Azure platform, and a focus on enhancing infrastructure safety and security.
+
+
+https://www.torontomu.ca/news-events/news/2024/04/tmu-students-build-ai-tool-to-detect-brain-tumours/
+**Title:** TMU Students Develop AI Tool for Brain Tumour Detection
+
+**Summary:** TMU students Daniel Dabir and Kamyar Saeedabadi have created a machine learning tool to detect and classify brain tumours, aiming to reduce wait times for radiologists, healthcare costs, and improve medical outcomes. By utilizing a Convolutional Neural Network, their tool provides accurate tumour classification from MRI scans, offering potential partnerships with healthcare organizations to enhance medical diagnostics.
+
+
+https://www.cnbc.com/2024/04/14/ukraines-ai-drone-attacks-on-oil-refineries-threaten-energy-markets.html
+**Title:** Ukraine’s AI Drone Attacks on Oil Refineries Threaten Energy Markets
+
+**Summary:** Ukraine's recent drone attacks on Russian oil refineries are demonstrating the growing threat of AI-enabled drones to global energy markets. The attacks have already impacted Russian refining capacity and raised concerns about potential disruptions to oil supply chains, leading to discussions about the implications for energy markets and potential effects on oil and gasoline prices. The situation highlights the broader implications of the deployment of AI drones and their potential to disrupt global trade and energy flows.
+
+
+https://www.investopedia.com/microsoft-stock-in-focus-following-investment-in-uae-based-ai-firm-g42-8634060
+**Title:** Microsoft's $1.5B Investment in UAE-Based AI Firm G42: Impact on Stock Prices
+
+**Summary:** Microsoft's recent $1.5 billion investment in UAE-based AI firm G42 has put the company's stock in the spotlight. This move aims to enhance AI technologies and skills initiatives globally. The partnership includes operating G42's AI applications on Microsoft's Azure cloud platform, collaborating to bring advanced AI solutions to various regions, and creating a $1 billion investment fund for skilled AI workforce development. Microsoft shares have shown consolidation within a symmetrical triangle pattern, with potential short-term weakness indicated by recent price movements.
+
+
+https://motortransport.co.uk/industry-news/brigade-electronics-adds-ai-to-its-backeye-360-camera-system/18537.article
+**Title:** Brigade Electronics Enhances Backeye 360 Camera System with AI
+
+**Summary:** Brigade Electronics has incorporated artificial intelligence technology into its Backeye 360 camera system, enabling real-time detection of humans in vehicle blind spots. The AI-enhanced system provides drivers with a comprehensive 360-degree view of their vehicle, utilizing sophisticated algorithms to alert them of potential risks. The system offers high-definition imaging, multiple viewing options, easy integration with existing infrastructure, and has garnered significant interest during customer trials in the UK and Europe.
+
+
+https://indianexpress.com/article/technology/artificial-intelligence/googles-app-notes-feature-ai-image-generation-9269032/
+**Title:** Google’s experimental Notes feature gains AI image generation capability
+
+**Summary:** Google has added AI image generation capability to its experimental Notes feature, allowing users to create personalized notes with custom images generated from text prompts. The feature is currently being tested in the US and India, available on the latest Google app for Android and iOS devices. Users can generate images or choose from their phone's gallery to add to their notes, without watermarks, and can save these images by taking screenshots.
+
+
+https://www.artificialintelligence-news.com/2024/04/12/uk-and-south-korea-cohost-ai-seoul-summit/
+**Title:** UK and South Korea Co-Host AI Seoul Summit
+
+**Summary:** The UK and South Korea will co-host the AI Seoul Summit on May 21st and 22nd, focusing on AI technology development in a safe and inclusive manner. The summit aims to enhance global cooperation on AI safety, innovation, and governance, building upon the Bletchley Declaration. AI advancements will be discussed to ensure they benefit humanity while minimizing risks and promoting sustainable AI development.
+
+
+https://cryptoslate.com/fetch-ai-singularitynet-and-ocean-protocol-planned-7-5-billion-asi-token-to-launch-by-may/
+### Title: Fetch.ai, SingularityNET, and Ocean Protocol to Launch $7.5 Billion ASI Token in May
+
+### Summary: 
+The Artificial Superintelligence Alliance, comprised of Fetch.ai, SingularityNET, and Ocean Protocol, is set to launch the ASI token in May. This token will merge the native digital assets of the three AI protocols with an estimated market capitalization of $7.5 billion, aiming to accelerate investments in Artificial General Intelligence and challenge the dominance of major tech companies in AI development. The move follows a report highlighting AI as a key narrative in the crypto industry, with significant returns seen in large-cap AI tokens during the first quarter of the year.
+
+
+https://www.benzinga.com/general/24/04/38258816/elon-musk-calls-artificial-intelligence-greatest-potential-breakthrough-in-lifetime-with-caveat-a-sm
+### Title: Elon Musk Calls Artificial Intelligence Greatest Potential Breakthrough In Lifetime With Caveat
+
+### Summary: Elon Musk, recognized with The Breakthrough Prize, shared his views on artificial intelligence and the upcoming presidential elections. Musk highlighted the potential of AI surpassing human intelligence, emphasizing the importance of training AI to be truthful and curious. He also raised concerns about the possibility of AI posing risks to humanity, suggesting the need for responsible AI development.
+
+
+https://www.ndtv.com/opinion/why-india-needs-a-ministry-of-ai-artificial-intelligence-5427255
+**Title:** 
+Opinion | Why India Needs A 'Ministry Of AI'
+
+**Summary:** 
+The article discusses the imperative need for India to establish a Ministry of AI to harness the potential of artificial intelligence (AI) for economic growth, national security, and strategic advantage. With the AI revolution unfolding rapidly, the Ministry would spearhead initiatives to integrate AI in key sectors, promote AI literacy, develop regulatory frameworks, and transform India's vast data reserves into a powerhouse for innovation and economic growth.
+
+
+https://www.pymnts.com/artificial-intelligence-2/2024/influencers-harness-ai-to-boost-fame-and-fortune/
+**Title:** The Use of AI in Influencer Marketing
+
+**Summary:** AI is revolutionizing the influencer marketing landscape, with companies like Dicer.ai and FameFlow.ai partnering to provide brands and agencies with access to influencer endorsements and real-time data on ad performance. This collaboration streamlines influencer campaigns, boosts engagement, and improves ad profits, leading to a more robust influencer economy. Additionally, AI is being used to integrate sponsor advertisements into influencer videos and predict trends, while also raising questions about the use of AI deepfakes in the influencer space.
+
+
+https://www.thehindu.com/elections/lok-sabha/from-it-bots-to-ai-deepfakes-the-evolution-of-election-related-misinformation-in-india/article68015342.ece
+**Title:** Evolution of Election-Related Misinformation in India
+
+**Summary:** The article discusses the evolution of election-related misinformation in India, highlighting the impact of technology, including AI-generated content and deepfakes, on the 2024 elections. It explores the challenges faced by voters in distinguishing between real and fake information, and the efforts by social media companies and the government to combat the spread of misinformation.
+
+
+https://www.investopedia.com/amd-unveils-new-ai-pc-processors-competition-with-nvidia-intel-heats-up-8634156
+### Title: AMD Unveils New AI PC Processors as Competition With Nvidia and Intel Heats Up
+
+### Summary:
+AMD recently introduced new processors designed for artificial intelligence applications, enhancing its AI PC lineup and intensifying competition with Nvidia and Intel. The new AMD Ryzen PRO 8040 Series for laptops and mobile workstations, along with the Ryzen PRO 8000 Series for desktops, aim to provide advanced AI processing power by combining CPU, GPU, and NPU technologies. Partners like Lenovo and HP are incorporating these processors into their AI PC offerings, while Microsoft is collaborating with AMD to optimize performance on Windows 11 systems. Amidst the race to challenge Nvidia's dominance in the AI chip market, analysts anticipate AMD and Intel to capture a
+
+
+https://indianexpress.com/article/technology/artificial-intelligence/adobe-premiere-pro-ai-video-editing-features-9273017/
+**Title:** Adobe Premiere Pro Enhances Video Editing with AI Tools
+
+**Summary:** Adobe Premiere Pro is introducing new generative AI-powered features such as object removal/addition and video generation tools. Users can now seamlessly edit videos by adding or removing objects with just a text prompt. These new capabilities, powered by Firefly AI, aim to enhance the editing experience and will be available in May 2024. Additionally, Adobe is collaborating with OpenAI and Runway to bring more AI-backed editing functionalities, including generating B-roll footage and extending video length.
+
+
+https://www.theguardian.com/technology/2024/apr/16/child-sexual-abuse-content-online-ai
+### Child Sexual Abuse Content Growing Online with AI-Made Images, Report Reveals
+The National Center for Missing & Exploited Children reports a surge in child sexual exploitation online, including the use of AI-generated images and videos. Reports of online child abuse rose by over 12% in 2023, with instances of financial sexual extortion also increasing. The use of AI to create explicit content poses challenges in identifying real victims, and the quality of reports submitted to authorities needs improvement to effectively combat this growing issue.
+
+
+https://neurosciencenews.com/ai-empathy-25911/
+**Title:** AI vs. Human Empathy: Machine Learning More Empathetic
+
+**Summary:** Research from USC shows that AI-generated messages can make recipients feel more "heard" than responses from untrained humans, demonstrating AI's superior ability to detect and respond to human emotions. However, there is a bias against AI-generated empathy, with recipients feeling less heard when they know a message is from AI. The study emphasizes the importance of understanding and leveraging AI to effectively meet human psychological needs in a world where empathetic connections are dwindling.
+
+
+https://variety.com/vip-video/conversations-in-ai-how-artificial-intelligence-is-transforming-music-biz/
+**Title:** Conversations in AI: How Tech Is Transforming the Music Biz
+
+**Summary:** The integration of artificial intelligence (AI) into the music industry is reshaping musical creativity and consumer interaction. While AI offers new creative possibilities for artists, it also raises challenges such as issues of ownership and control of intellectual property. Yet, AI presents immense opportunities for the music industry, especially in emerging markets like Africa. Looking ahead, AI could revolutionize personalized music experiences, making music more immersive and personalized. Industry stakeholders must navigate this new terrain with both enthusiasm and caution to ensure the intersection of AI and music continues to foster growth and innovation.
+
+
+https://www.e-know.ca/regions/east-kootenay/artificial-intelligence-could-help-or-kill-us-all/
+# Artificial intelligence could help or kill us all
+
+## Summary:
+The article explores the potential dangers and benefits of Artificial Intelligence (AI) as discussed by notable figures like Stephen Hawking and Elon Musk. While some fear the negative impact AI could have on humanity, others see its potential to bring about significant advancements in various fields such as medicine, business productivity, and addressing social issues. The article concludes with the author's belief that the real threat to humanity lies in human nature rather than AI.
+
+
+https://techxplore.com/news/2024-04-microsoft-invest-15bn-ai-firm.html
+**Title:** Microsoft invests $1.5bn in UAE AI firm G42, Secures Board Seat
+
+**Summary:** Microsoft has announced a $1.5 billion investment in UAE-based AI firm G42, acquiring a minority stake and a board seat. The strategic partnership will involve running G42's applications on Microsoft's Azure platform and focusing on secure and responsible AI development in the Middle East, Central Asia, and North Africa. The move is seen as part of the ongoing competition between the US and China in the technology sector.
+
+
+https://www.fool.com/investing/2024/04/13/intel-unveil-artificial-intelligence-chip-nvidia/
+**Title: Intel Unveils New AI Chip to Compete Against Nvidia**
+
+**Summary:** Intel has launched its Gaudi 3 AI accelerator chip to challenge Nvidia's dominance in AI chips. While Intel aims to grab market share by emphasizing performance and cost advantages, Nvidia's upcoming Blackwell platform and established technology could still keep it ahead in the AI race. Investors are watching closely as Intel seeks to make inroads into the lucrative AI market.
+
+
+https://www.abc.net.au/news/science/2024-04-17/scammers-using-fake-ai-dr-karl-to-promote-health-products/103686044
+**Title:** Scammers Using Fake AI Dr. Karl to Promote Health Products
+
+**Summary:** Scammers are leveraging AI technology to create fake endorsements from Dr. Karl, a trusted science communicator, to sell health products online. Despite efforts to remove these fraudulent ads, scammers continue to exploit AI tools to deceive consumers, highlighting the challenges faced by tech platforms in tackling such scams.
+
+
+https://www.pymnts.com/news/artificial-intelligence/2024/google-showcases-expanding-enterprise-ai-capabilities-cloud-next-conference/
+**Title:** Google Showcases Expanded Enterprise AI Capabilities at Cloud Next Conference
+
+**Summary:** Google unveiled new AI-powered capabilities at its Cloud Next event, including Google Vids for collaborative video creation and Gemini Code Assist for AI code completion. Major corporations like Mercedes-Benz, Uber, Walmart, Goldman Sachs, and Carrefour are already leveraging Google's AI for various applications. Google also introduced enhancements to its AI models, improved accuracy in Google Search, new AI agents for different tasks, cybersecurity innovations, and a new AI-powered video creation app called Google Vids designed for workplace use.
+
+
+https://news.asu.edu/20240415-science-and-technology-aipowered-medicine
+**Title:** AI-powered Medicine: ASU Researchers Leveraging Artificial Intelligence for Healthcare Innovations
+
+**Summary:** 
+ASU researchers are at the forefront of utilizing artificial intelligence (AI) to revolutionize medical research. From assessing treatments for neurological conditions using AI models to standardizing brain scans for Alzheimer's tracking, and even mapping cancer cells for potential treatment discoveries, these innovative projects signify a major leap in transforming healthcare through the power of AI.
+
+
+https://www.hsph.harvard.edu/news/features/hackathon-sparks-digital-ai-solutions-to-improve-health-care/
+**Title:** Hackathon sparks digital, AI solutions to improve health care
+
+**Summary:** The Health Systems Innovation Lab (HSIL) at Harvard T.H. Chan School of Public Health organized a hackathon where over 500 participants from around the world worked on developing innovative digital health and AI solutions to address challenges in areas such as cardiovascular disease and diabetes, cancer, and mental health. Winning ideas included "SweetAudio," a machine learning model to estimate blood glucose levels from voice analysis, and "Sam.io," an AI bot to enhance medication adherence among mental health patients. Winners will participate in a Venture Incubation Program to further develop their innovations.
+
+
+https://www.brennancenter.org/our-work/research-reports/preparing-fight-ai-backed-voter-suppression
+**Title:** Preparing to Fight AI-Backed Voter Suppression
+
+**Summary:** The article highlights how AI tools are being used in voter suppression efforts, exploring historical contexts and the compounding threats posed by AI technologies. It discusses the potential impact of generative AI in spreading disinformation, manipulating voter registration, and affecting election outcomes, urging for new policy interventions to protect democracy's integrity in the face of evolving threats.
+
+

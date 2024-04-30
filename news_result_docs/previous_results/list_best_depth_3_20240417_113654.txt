@@ -1,0 +1,46 @@
+https://www.theguardian.com/technology/2024/apr/15/ai-burger-joint-flippy-caliexpress
+### Title: "Inside CaliExpress by Flippy: A Visit to the World's First Fully Autonomous Restaurant"
+### Summary: 
+The article explores a visit to CaliExpress, an AI-powered burger joint in Los Angeles, where robot-made burgers and fries are served with the option to pay using facial recognition technology. The experience raises concerns about the implications of automation in the fast-food industry, highlighting both the potential cost-cutting benefits and the limitations of robot-cooked meals.
+
+
+https://cointelegraph.com/news/deep-mind-ceo-google-microsoft-openai-artificial-general-intelligence-ai
+### Title: Google to Invest Over $100 Billion in Artificial General Intelligence (AGI)
+
+### Summary: 
+DeepMind's CEO, Demis Hassabis, revealed at a TED conference that Google plans to invest more than $100 billion in the development of Artificial General Intelligence (AGI). This announcement comes in response to Microsoft's ambitious "Stargate" project in collaboration with OpenAI, aiming to build a $100 billion supercomputer for training AI systems. The race between tech giants to achieve AGI signifies the growing importance and investment in advancing artificial intelligence technologies.
+
+
+https://www.nbcnews.com/tech/tech-news/dartmouth-researchers-look-meld-therapy-apps-modern-ai-rcna146558
+**Title:** 
+Dartmouth Researchers Develop Therabot, a New AI-Powered Therapy App
+
+**Summary:** 
+Dartmouth College researchers have created Therabot, an AI-powered therapy app that is undergoing clinical trials. Unlike existing apps using rules-based AI, Therabot utilizes generative AI to provide personalized therapy. The aim is to improve access to mental health care, with the potential to complement human therapists and address the shortage of mental health providers in the U.S. While Therabot shows promising results, concerns about the regulation and potential risks of AI-based therapy apps persist.
+
+
+https://www.pymnts.com/news/investment-tracker/2024/microsoft-invests-1-5-billion-in-uae-ai-firm-g42/
+**Title:** Microsoft Invests $1.5 Billion in UAE AI Firm G42
+
+**Summary:** Microsoft has made a significant investment of $1.5 billion in G42, an AI firm based in Abu Dhabi. This partnership aims to advance AI applications and digital infrastructure in various regions, including the Middle East, Central Asia, and Africa, while upholding high standards of security and privacy. The collaboration also includes the creation of a $1 billion fund for AI developers and highlights the potential impact of AI on industries in the Middle East, driving economic expansion and fostering innovation.
+
+
+https://www.theguardian.com/technology/2024/apr/16/child-sexual-abuse-content-online-ai
+### Child Sexual Abuse Content Growing Online with AI-Made Images, Report Reveals
+The National Center for Missing & Exploited Children reports a surge in child sexual exploitation online, including the use of AI-generated images and videos. Reports of online child abuse rose by over 12% in 2023, with instances of financial sexual extortion also increasing. The use of AI to create explicit content poses challenges in identifying real victims, and the quality of reports submitted to authorities needs improvement to effectively combat this growing issue.
+
+
+https://www.artificialintelligence-news.com/2024/04/11/us-and-japan-sweeping-ai-tech-collaboration/
+**Title:** US and Japan Unveil Sweeping AI and Tech Collaboration
+
+**Summary:** President Biden and Japanese Prime Minister Kishida Fumio announced various technology initiatives, including a $110 million partnership for cutting-edge AI research, establishing national AI Safety Institutes, robust quantum supply chains, semiconductor collaborations, and workforce training programs. The collaboration emphasizes developing human capital and complementary ecosystems to enhance competitiveness and national security.
+
+
+https://www.politico.eu/article/spot-deepfake-artificial-intelligence-tools-undermine-eyes-ears/
+**Title:**
+Spot the Deepfake: How AI Tools are Undermining Reality
+
+**Summary:**
+The rise of affordable and accessible generative AI tools is leading to an increase in deepfake content on social media, including false videos, images, and audio clips. With the potential to influence public opinion and impact elections, the ability to detect these digital forgeries is becoming crucial. While AI technology allows for the creation of realistic deepfakes with minimal effort and cost, concerns are growing over the spread of manipulated political content. Initiatives like creating AI-generated audio clips mimic voices to examine the impact of deepfakes on public perception. The next frontier of AI deepfakes is real-time interactive videos, demonstrating the evolving capabilities of this technology
+
+

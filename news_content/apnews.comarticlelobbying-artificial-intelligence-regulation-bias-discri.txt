@@ -1,0 +1,39 @@
+https://apnews.com/article/lobbying-artificial-intelligence-regulation-bias-discrimination-58eab95d279648e759f9099ca4249f00
+First major attempts to regulate AI face headwinds from all sides
+FILE - OpenAI’s ChatGPT app is displayed on an iPhone in New York, May 18, 2023. With companies deploying artificial intelligence to every corner of society, state lawmakers are playing catch-up with the first major proposals to reign in AI’s penchant for discrimination — but those bills face blistering headwinds from every direction. (AP Photo/Richard Drew, File)
+DENVER (AP) — Artificial intelligence is helping decide which Americans get the job interview, the apartment, even medical care, but the first major proposals to reign in bias in AI decision making are facing headwinds from every direction.
+Lawmakers working on these bills, in states including Colorado, Connecticut and Texas, came together Thursday to argue the case for their proposals as civil rights-oriented groups and the industry play tug-of-war with core components of the legislation.
+“Every bill we run is going to end the world as we know it. That’s a common thread you hear when you run policies,” Colorado’s Democratic Senate Majority Leader Robert Rodriguez said Thursday. “We’re here with a policy that’s not been done anywhere to the extent that we’ve done it, and it’s a glass ceiling we’re breaking trying to do good policy.”
+Organizations including labor unions and consumer advocacy groups are pulling for more transparency from companies and greater legal recourse for citizens to sue over AI discrimination. The industry is offering tentative support but digging in its heels over those accountability measures.
+The group of bipartisan lawmakers caught in the middle — including those from Alaska, Georgia and Virginia — has been working on AI legislation together in the face of federal inaction. On Thursday, they highlighted their work across states and stakeholders, emphasizing the need for AI legislation and reinforcing the importance for collaboration and compromise to avoid regulatory inconsistencies across state lines. They also argued the bills are a first step that can be built on going forward.
+“It’s a new frontier and in a way, a bit of a wild, wild West,” Alaska’s Republican Sen. Shelley Hughes said at the news conference. “But it is a good reminder that legislation that passed, it’s not in stone, it can be tweaked over time.” 
+While over 400 AI-related bills are being debated this year in statehouses nationwide, most target one industry or just a piece of the technology — such as deepfakes used in elections or to make pornographic images.
+The biggest bills this team of lawmakers has put forward offer a broad framework for oversight, particularly around one of the technology’s most perverse dilemmas: AI discrimination. Examples include an AI that failed to accurately assess Black medical patients and another that downgraded women’s resumes as it filtered job applications.
+Still, up to 83% of employers use algorithms to help in hiring, according to estimates from the Equal Employment Opportunity Commission.
+If nothing is done, there will almost always be bias in these AI systems, explained Suresh Venkatasubramanian, a Brown University computer and data science professor who’s teaching a class on mitigating bias in the design of these algorithms. 
+“You have to do something explicit to not be biased in the first place,” he said. 
+These proposals, mainly in Colorado and Connecticut, are complex, but the core thrust is that companies would be required to perform “impact assessments” for AI systems that play a large role in making decisions for those in the U.S. Those reports would include descriptions of how AI figures into a decision, the data collected and an analysis of the risks of discrimination, along with an explanation of the company’s safeguards. 
+Requiring greater access to information on the AI systems means more accountability and safety for the public. But companies worry it also raises the risk of lawsuits and the revelation of trade secrets.
+David Edmonson, of TechNet, a bipartisan network of technology CEOs and senior executives that lobbies on AI bills, said in a statement that the organization works with lawmakers to “ensure any legislation addresses AI’s risk while allowing innovation to flourish.”
+Under bills in Colorado and Connecticut, companies that use AI wouldn’t have to routinely submit impact assessments to the government. Instead, they would be required to disclose to the attorney general if they found discrimination — a government or independent organization wouldn’t be testing these AI systems for bias.
+Labor unions and academics worry that over reliance on companies self-reporting imperils the public or government’s ability to catch AI discrimination before it’s done harm.
+“It’s already hard when you have these huge companies with billions of dollars,” said Kjersten Forseth, who represents the Colorado’s AFL-CIO, a federation of labor unions that opposes Colorado’s bill. “Essentially you are giving them an extra boot to push down on a worker or consumer.”
+The California Chamber of Commerce opposes that state’s bill, concerned that impact assessments could be made public in litigation.
+Another contentious component of the bills is who can file a lawsuit under the legislation, which the bills generally limit to state attorney generals and other public attorneys — not citizens.
+After a provision in California’s bill that allowed citizens to sue was stripped out, Workday, a finance and HR software company, endorsed the proposal. Workday argues that civil actions from citizens would leave the decisions up to judges, many of whom are not tech experts, and could result in an inconsistent approach to regulation.
+Sorelle Friedler, a professor who focuses on AI bias at Haverford College, pushes back.
+“That’s generally how American society asserts our rights, is by suing,” said Friedler.
+Connecticut’s Democratic state Sen. James Maroney said there’s been pushback in articles that claim he and Rep. Giovanni Capriglione, R-Texas, have been “pedaling industry-written bills” despite all of the money being spent by the industry to lobby against the legislation. 
+Maroney pointed out one industry group, Consumer Technology Association, has taken out ads and built a website, urging lawmakers to defeat the legislation.
+“I believe that we are on the right path. We’ve worked together with people from industry, from academia, from civil society,” he said. 
+“Everyone wants to feel safe, and we’re creating regulations that will allow for safe and trustworthy AI,” he added.
+_____
+Associated Press reporters Trân Nguyễn contributed from Sacramento, California, Becky Bohrer contributed from Juneau, Alaska, Susan Haigh contributed from Hartford, Connecticut.
+___
+Bedayn is a corps member for the Associated Press/Report for America Statehouse News Initiative. Report for America is a nonprofit national service program that places journalists in local newsrooms to report on undercovered issues.
+Copyright 2024 The Associated Press. All Rights Reserved.
+About Your Privacy Choices
+We and our partners process data to:
+Actively scan device characteristics for identification. Measure content performance. Understand audiences through statistics or combinations of data from different sources. Create profiles to personalise content. Develop and improve services. Store and/or access information on a device. Measure advertising performance. Personalised advertising and content, advertising and content measurement, audience research and services development. 
+        List of Partners (vendors)
+        

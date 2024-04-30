@@ -1,0 +1,23 @@
+https://www.cam.ac.uk/research/news/artificial-intelligence-beats-doctors-in-accurately-assessing-eye-problems
+**Title:**
+AI Outperforms Doctors in Eye Problem Assessment, Research Finds
+
+**Summary:**
+A study led by the University of Cambridge reveals that the AI model GPT-4 surpasses non-specialist doctors in accurately assessing eye problems. GPT-4 demonstrated comparable performance to expert eye doctors and could potentially aid in triaging patients with eye issues, offering prompt and accurate recommendations. The study highlights the potential of large language models like GPT-4 to enhance healthcare by providing valuable support in specific clinical contexts.
+
+
+https://www.hklaw.com/en/insights/publications/2024/04/beyond-the-hype-the-secs-intensified-focus-on-ai-washing-practices
+**Title:** SEC Targets "AI Washing" Practices with Enforcement Actions
+
+**Summary:** The U.S. Securities and Exchange Commission (SEC) has intensified its focus on preventing "AI washing," where firms mislead investors by exaggerating their use of artificial intelligence (AI). The SEC charged two investment advisors for making false claims about their AI capabilities, marking the first enforcement action against AI washing. The SEC warns investors to be cautious of firms overstating AI use to attract investments and emphasizes the need for transparency in incorporating AI in financial services.
+
+
+https://neurosciencenews.com/ai-parkinsons-neuropharmacology-25936/
+**Title: AI Revolutionizes Hunt for Parkinson’s Treatments**
+
+**Summary:** Researchers at the University of Cambridge have utilized artificial intelligence to expedite the search for treatments for Parkinson's disease. By employing machine learning techniques, they identified five promising compounds that can prevent the harmful clumping of alpha-synuclein, a protein central to Parkinson's pathology. This AI-driven approach has significantly accelerated the screening process, potentially leading to faster development of new treatments for patients.
+
+---
+
+
+

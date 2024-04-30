@@ -1,0 +1,76 @@
+https://variety.com/2024/biz/news/sag-aftra-sound-recordings-code-artificial-intelligence-1235969612/
+**Title:** SAG-AFTRA Supports New Record Label Deal on Ethical Use of AI Voices
+
+**Summary:** SAG-AFTRA announced a new agreement with major record labels like Warner Music Group and Sony Music Entertainment, aiming to regulate the ethical and responsible use of artificial intelligence to replicate singers' voices. The deal, known as the Sound Recordings Code, includes minimum session rates for vocal performers and requires singers' consent before using AI to generate tracks with their voice. The agreement also ensures that singers are not exploited and sets guidelines for royalties from music streaming platforms.
+
+
+https://www.eweek.com/artificial-intelligence/deepfake/
+### Title: **The Evolution and Challenges of Deepfake Technology**
+
+#### Summary: 
+Deepfake technology, powered by sophisticated AI algorithms like Generative Adversarial Networks (GANs), is revolutionizing the creation and manipulation of audio and video content. While offering opportunities in various sectors including entertainment and healthcare, deepfakes also present significant ethical and security concerns due to their potential for misuse, such as spreading misinformation and jeopardizing public trust. The technology's history, development, operational mechanisms, positive and malicious applications, ethical implications, legal perspectives, detection methodologies, and protection strategies are explored in-depth to navigate the complexities and ensure responsible use of deepfake technology.
+
+
+https://guardian.ng/news/fg-targets-15-7-trillion-artificial-intelligence-market/
+**Title:** Nigeria's Federal Government Aims for a Share in the $15.7 Trillion AI Market
+
+**Summary:** The Nigerian government, led by Minister Dr. Bosun Tijani, is prioritizing participation in the global Artificial Intelligence industry. In collaboration with various agencies and partners, they are focusing on developing a National AI Strategy to position Nigeria as a key player in shaping the future of AI development and regulation. The initiative aims to leverage the potential economic benefits and technological advancements AI can offer, highlighting the importance of not being left behind in this rapidly evolving sector.
+
+
+https://healthcare-in-europe.com/en/news/laryngeal-cancer-ai-software-outcomes.html
+### Title: AI Software Improves Laryngeal Cancer Outcome Predictions
+
+### Summary: 
+Researchers at Newcastle University have utilized artificial intelligence (AI) software to analyze CT scans for advanced laryngeal cancer, unveiling hidden patterns within tumors that can predict patient survival more accurately than traditional factors. The development offers hope for personalized treatment and improved care for patients battling voice box cancer.
+
+
+https://nyulangone.org/news/artificial-intelligence-feedback-physician-notes-improves-patient-care
+### Title: AI Feedback Enhances Quality of Physician Notes Improving Patient Care
+
+### Summary: 
+A new study by NYU Langone Health reveals that artificial intelligence (AI) feedback has enhanced the quality of physician notes, leading to improved diagnostic accuracy and better planning for patients' future needs. By utilizing AI systems to grade clinical notes, along with data dashboards and AI chatbots, the study shows significant improvements across various medical specialties. The research demonstrates how AI models can transform healthcare organizations' note quality assessment methods, ultimately enhancing care quality and patient outcomes.
+
+
+https://neurosciencenews.com/ai-parkinsons-neuropharmacology-25936/
+**Title: AI Revolutionizes Hunt for Parkinson’s Treatments**
+
+**Summary:** Researchers at the University of Cambridge have utilized artificial intelligence to expedite the search for treatments for Parkinson's disease. By employing machine learning techniques, they identified five promising compounds that can prevent the harmful clumping of alpha-synuclein, a protein central to Parkinson's pathology. This AI-driven approach has significantly accelerated the screening process, potentially leading to faster development of new treatments for patients.
+
+---
+
+
+
+https://www.politico.com/newsletters/future-pulse/2024/04/16/pressure-builds-to-stop-ais-mad-science-00152284
+### Title:
+Pressure builds to stop AI’s ‘mad science’
+
+### Summary:
+President Biden and bipartisan lawmakers are recognizing the need for better regulation to control the manipulation of DNA with artificial intelligence, aiming to prevent the creation of potentially dangerous new living organisms. A bipartisan group has urged for the development of rules without delay, emphasizing the importance of establishing protocols such as a secure federal database, regular stress testing of synthesis providers, and international screening standards to ensure safety and prevent misuse.
+
+
+https://discover.lanl.gov/publications/connections/2024-april/ai-chemistry/
+**Title:** Artificial Intelligence Revolutionizes Chemistry Exploration
+
+**Summary:** Los Alamos National Laboratory researchers have developed a groundbreaking machine learning model, ANI-1xnr, which predicts molecular energies and forces, allowing for efficient simulations in chemistry and materials science. This new approach bridges the gap between accuracy and speed in simulations, offering a transformational tool for studying reactive chemistry at scale.
+
+
+https://www.cam.ac.uk/research/news/artificial-intelligence-beats-doctors-in-accurately-assessing-eye-problems
+**Title:**
+AI Outperforms Doctors in Eye Problem Assessment, Research Finds
+
+**Summary:**
+A study led by the University of Cambridge reveals that the AI model GPT-4 surpasses non-specialist doctors in accurately assessing eye problems. GPT-4 demonstrated comparable performance to expert eye doctors and could potentially aid in triaging patients with eye issues, offering prompt and accurate recommendations. The study highlights the potential of large language models like GPT-4 to enhance healthcare by providing valuable support in specific clinical contexts.
+
+
+https://www.hklaw.com/en/insights/publications/2024/04/beyond-the-hype-the-secs-intensified-focus-on-ai-washing-practices
+**Title:** SEC Targets "AI Washing" Practices with Enforcement Actions
+
+**Summary:** The U.S. Securities and Exchange Commission (SEC) has intensified its focus on preventing "AI washing," where firms mislead investors by exaggerating their use of artificial intelligence (AI). The SEC charged two investment advisors for making false claims about their AI capabilities, marking the first enforcement action against AI washing. The SEC warns investors to be cautious of firms overstating AI use to attract investments and emphasizes the need for transparency in incorporating AI in financial services.
+
+
+https://www.artificialintelligence-news.com/2024/04/17/samsung-aims-boost-on-device-ai-lpddr5x-dram/
+**Title:** Samsung Unveils LPDDR5X DRAM to Enhance On-Device AI Capabilities
+
+**Summary:** Samsung has introduced the industry's first LPDDR5X DRAM with speeds of up to 10.7 Gbps, offering a significant boost in performance and capacity for on-device AI applications. This advanced memory solution features enhanced power efficiency, expanded capacity, and optimized power-saving technologies, catering to the evolving demands of on-device AI. Scheduled for mass production in the second half of 2024, this innovation marks a milestone in meeting the high-capacity, high-performance, and energy-efficient memory requirements essential for the future of AI technologies.
+
+

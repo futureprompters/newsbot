@@ -1,0 +1,153 @@
+https://www.abc.net.au/news/science/2024-04-17/scammers-using-fake-ai-dr-karl-to-promote-health-products/103686044
+This site uses cookies
+The ABC uses cookies to improve your experience. Learn more about how we use cookies
+Science
+Scammers are using a fake, AI-generated Dr Karl to sell health pills to Australians
+ScienceScammers are using a fake, AI-generated Dr Karl to sell health pills to Australians
+Over a long career, Dr Kruszelnicki, often referred to as Dr Karl, has built a reputation for trust and honesty, promoting knowledge of science and debunking misleading public claims.
+He now unwillingly finds himself a face of online scams.
+"There's hundreds of people advertising this stuff with my name and face on different sites around the world," he said.
+Since late March, hundreds of ads featuring fake endorsements from Dr Karl for various health products have been published on Facebook and Instagram.
+When users reported them to Meta, the owner of the platforms, they were told the ads did not breach its advertising standards. 
+After being contacted by the ABC, Meta removed the content, but days later new versions of these fake endorsements are circulating on its platforms.
+Celebrity endorsement scams have been around for years, but recent improvements in generative AI have provided scammers with a new toolbox of tricks, from fake videos and cloned voices, to whole fake news websites. The automated content-creation tools can quickly spin a web of deceit, designed to snare victims without them realising.
+When the ABC investigated the companies behind the fake Dr Karl ads, it found a murky world of AI content, affiliated advertising, and elusive company directors with a string of companies to their names.
+As fake endorsements blur the line between fact and fiction, the big tech companies that accept advertising money from the scammers are under increasing pressure to take action.
+Stuck in a hall of mirrors of scammer trickery
+When Fred, who has asked to remain anonymous, saw what appeared to be Dr Karl promoting a blood pressure pill in an ad on Instagram, he had no reason to think the video or the endorsement itself was fake.
+"I thought he's dinky-di so there's no problem," the retired landscape gardener from Victoria said.
+"It was the endorsement that convinced me to give it a go."
+The video, generated with the help of artificial intelligence (AI), featured what appeared to be Karl Kruszelnicki speaking about a "natural remedy" that cleared his "vessels" and made him feel decades younger.
+Although poor quality, the fake video was good enough to pass Fred's quick inspection. 
+This was the 78-year-old's first brush with the false reality created by the scammers, an online house of cards in which each piece of trickery props up another.
+In this case of ads selling the blood pressure pills, fake Nine News and Chemist Warehouse websites ran AI-generated news articles with the byline of TV personality Karl Stefanovic, telling how Dr Karl endorsed the new health product.
+If Fred googled the name of the product in the video, the top results were AI-generated spam websites, part of a co-ordinated campaign to game the search engine's algorithm and further promote the product.
+And pushing all this information to the public was a stream of ads hosted by recently created Facebook and Instagram accounts.
+Fred had no idea he was caught in a "hall of mirrors" of fake endorsements.
+He clicked on the link and bought the pills.
+One public figure dominates the fake endorsement scams
+National anti-scam charity IDCARE is receiving more reports of scams using AI-generated videos and audio, its manager of outreach and education, Kathy Sundstrom, said.
+"Celebrity endorsement scams are nothing new but what is new is the use of deep fakes," she said.
+The speed at which these new AI tools can generate content to capitalise on a shift in public sentiment and a celebrity's rise to fame was demonstrated last year, with the FIFA Women's World Cup.
+As the tournament progressed and Sam Kerr's media star rose, scammers faked investment scheme endorsements from the Matildas captain.
+But there's one public figure who scammers use far more than any other for fake endorsements targeting Australians.
+It's Gina Rinehart, the billionaire mining magnate and heiress.
+Fake celebrity endorsement featuring Andrew Forrest account for one per cent reports to IDCARE in the past year. Mr Forrest is battling Meta in court over scam ads bearing his image.
+The scammers' tactics can be shockingly effective, Ms Sundstrom said.
+One client reported a $700,000 financial loss for a scam that used Gina Rinehart's likeness.
+In most cases, she said, the victim's first contact with the scam came through ads run on Facebook.
+Soon after Meta removes the ads, new versions pop up
+Meta's advertising standards recognise "protecting people from frauds or scams" as a core value, but the company appears to be struggling to contain the spread of these ads on its platforms.
+In the case of the fake endorsements bearing Dr Karl's image, users reported the scammers' ads to Meta for weeks, but received responses saying the ads did not breach the standards.
+After the ABC contacted Meta for comment on April 9, it received a response two days later saying the "content has been removed for not complying with our Community Standards and Advertising Policies."
+A Meta spokesperson said the company used a mix of automated systems and human reviewers to identify and remove content and accounts that violate its policies.
+"In the final quarter of 2023, we removed 691 million fake accounts globally," they said.
+But days after Meta said it removed the fake Dr Karl ads, new versions of the same scam, also featuring Dr Karl, were circulating on the company's platforms.
+Meta was failing to keep up with the scammers, Mark Andrejevic, a digital communications researcher from Monash University, said.
+"They are getting rid of some of these fake pages but that only speaks to the scale of the problem. It's huge," he said.
+Inside the scams stealing the identities of celebrities
+The words emblazoned across the ads are dramatic, and they're usually accompanied by a photoshopped or AI-generated image of an Australian celebrity being arrested. It's an attempt to take your money.
+For the past two years, Professor Andrejevic and his colleagues have analysed Facebook's ad-placement algorithm through a project that uses a browser extension to allow users to share with researchers what ads appear in their feeds.
+His work is part of the Australian Ad Observatory project run by the ARC Centre of Excellence for Automated Decision-Making and Society. The ABC is a partner in the project.
+The project has found Meta routinely blocks scammer ads only to allow the same type of ads to spread again. Or it blocks one version of a scam ad but leaves the others.
+"Even if a complaint is lodged about a particular ad on a particular page that ad may be taken down, but similar or identical ads are served from other pages right away," he said.
+"To me that suggests Facebook could be doing a better job of detecting these."
+A murky world of short-lived companies and elusive directors
+Paul Fletcher, a Victorian paramedic, clicked on a fake Dr Karl endorsement scam ad on April 8, weeks after users reported similar ads to Meta and were told they did not breach the advertising standards.
+Mr Fletcher, 60, said he only clicked on the ad for blood pressure pills because it featured Dr Karl.
+"I'm not usually drawn in to such ads as I've spent most of my working life employed in the health care sector.
+"The reason I got hooked in was that I have a huge amount of respect for Dr Karl.
+"I've never heard him support any product in the past and hence was surprised by his advocacy for this particular product."
+He then searched for the product on Google, which took him to a website that deceptively claimed the pills were sold at Chemist Warehouse.
+Mr Fletcher intended to pay for a $67.95 bottle of pills but, having failed to read the fine print, ended up purchasing five bottles for $339.95.
+When the ABC investigated the company selling the pills, it found what appears to be a series of "phoenix" companies and "dummy" directors.
+Phoenixing occurs when a company's directors strip cash and assets from it, hide them, liquidate the company and then restart it, usually under a different name. A dummy director is a person hired to act as the legal representatives of a company, but who has no actual involvement in its operation.
+The company listed on the website selling the pills, Premium Supplements, was registered in September 2023 in the Gold Coast, Queensland.
+The ABC called the phone number, listed on the website selling the pills, and spoke to a person who said they worked for another company, performing after-sales customer service. 
+They said they were based in the United States, although a second person at the same number said the company was based in the United Kingdom.
+Fred also paid $339.95 for five bottles of the same type of blood pressure pills. About a week later, a package of the pills arrived in the mail.
+The package's receipt showed it was sent by a different company, registered in September 2022 in the Gold Coast. Its director has been the director of nine short-lived companies in the past 15 years.
+The ABC was unable to contact the directors of Premium Supplements or this other company.
+Katharine Kemp, an expert on consumer law regulation at UNSW, said fake celebrity endorsements were misleading and deceptive conduct in breach of the Australian Consumer Law (ACL).
+"This is a matter of Dr Karl’s image being associated with a certain product and creating the impression he’s endorsing that product."
+Christine Parker, a professor of law at Melbourne Law School, also said the ads appeared to be "classic misleading and deceptive conduct".
+"I think what the ACCC has found with these fly-by-night companies is they disappear as soon as you take action against them," she said.
+"Then they might phoenix themselves and have another name and another address somewhere else."
+Regulator 'aware' of the fake Dr Karl ads
+State, territory and federal regulators including the Australian Competition and Consumer Commission (ACCC) enforce the Australian Consumer Law. 
+The ACCC referred the ABC to the regulator of medicines in Australia, the Therapeutic Goods Administration (TGA), which said it knew about the fake Dr Karl ads.
+"The TGA is aware of the matter referred to and does not comment on individual matters."
+As well as potentially breaching the ACL, the ads may also violate regulations around therapeutic claims.
+It is an offence to claim that a product will prevent, cure or alleviate a disease when the product isn't registered as a therapeutic good.
+The hunt for the 'cowboy' pharmacist behind a replica Ozempic scam
+Vials of replica weight loss drugs Ozempic and Mounjaro are being illegally shipped across the world from a house on the outskirts of Sydney.
+The fake Dr Karl ads for blood pressure pills also claimed they lowered cholesterol and controlled insulin. The TGA confirmed the product was not listed on the Australian Register of Therapeutic Goods.
+"Advertisements for therapeutic goods that are not on the Register and containing statements such as regulating high blood pressure, reducing cholesterol, and controlling insulin resistance would likely be considered therapeutic claims and raise concerns under the [Therapeutic Goods Act]," a spokesperson said.
+The spokesperson said when the TGA alerts a social media platform to alleged unlawful advertisements they "typically take action quickly".
+"In the last 12 months, we have requested the removal of close to 7,000 advertisements related to the unlawful advertising of unapproved therapeutic goods," they said.
+How much money is Meta making from these ads?
+As the scam losses mount, Meta is under pressure to take more action.
+The ACCC has taken Meta to court over alleged misleading conduct for publishing scam celebrity crypto ads on Facebook. This case is still being heard.
+Andrew Forrest meanwhile, tried to bring bring criminal charges against Meta in a suburban Perth magistrates court, relating to alleged scam advertisements used to defraud Australian investors.
+But on Friday last week the prosecution discontinued the charges.
+Mr Forrest has also launched civil proceedings against Meta in California, where the company has its global headquarters. This case will determine if Meta is liable for allegedly publishing and not removing thousands of fraudulent ads featuring Mr Forrest's image.
+Charges against Meta discontinued in WA
+Criminal charges against Meta Platforms, formerly Facebook, are discontinued in the WA District Court.
+Professor Andrejevic said if Meta was found liable, "we would see the scams policed a lot more effectively."
+He added that he'd also like to know how much money Meta was making from running ads from scammers.
+"The question I would ask is can Facebook be more transparent about how much money it's making from these ads?"
+"Does the fact they're being paid for these ads lower their incentive to take action?"
+Whatever the outcome of Mr Forrest's case, the outcome will be too late for Dr Karl, who can't afford an expensive court case.
+"I reckon I'm Zucked," he said, referencing Meta CEO Mark Zuckerberg.
+The events of the past few weeks shows how easily anonymous scammers, using the global reach of Meta's ad systems, can tarnish the reputation of a well-known public figure with a career built around trust and authenticity.
+Some users, on guard against the AI Dr Karl, are now finding his real posts suspicious. 
+Beneath a recent ABC Instagram video (about why teenagers smell) featuring the actual Dr Karl, a user wrote: "Scam, this is an AI copy of Dr Karl."
+Science in your inbox
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Related Stories
+What the trail of crumbs left by celebrity scammers tells us about who they target
+'Impossible to stop': Bitcoin scam doing the rounds using celebrities to 'endorse' product
+Australians are losing their life savings to a massive fraud syndicate. This 'furious' victim wants to stop others being burned
+Top Stories
+Australians urged to leave Israel after reported strike on Iran raises fears of escalation
+Iranian state media reports explosions heard at airport in central Iran
+This 8-year-old is learning to hunt dugong. He's also trying to save them
+Three brothers and family friend killed after ute hits tree in WA’s Wheatbelt
+Four boys arrested over 'terrifying' alleged knifepoint carjacking in Darwin CBD
+Dutton points to Queensland example as states review knife laws
+Security guard stabbed during confrontation with Bondi mass murderer granted permanent visa
+Court told teenager 'had long history' of mental health issues before allegedly stabbing bishop
+Surfer left in tears at Margaret River Pro after emotional battle with older brother
+India's south has always been immune to Modi's charms. Here's why he's desperate to win them over
+States argue vapes 'recruiting a new generation to nicotine', urging federal parliament to enact bans
+'Enough is enough': Cost of cathedral building questioned as many struggle to make ends meet
+Market and dollar fall on reports of strike on Iranian territory
+Trauma of family's lifetime with mental health system brought home by Bondi killings
+Canberra zoo's new zebra foal, born into successful breeding program, is already doing 'zoomies'
+Popular Now
+Don't miss news that matters to you. Log in to ABC today to get a more personalised experience tailored to your preferences.
+live:Australians urged to leave Israel after reported strike on Iran raises fears of escalation
+Three brothers and family friend killed after ute hits tree in WA’s Wheatbelt
+Iranian state media reports explosions heard at airport in central Iran
+Surfer left in tears at Margaret River Pro after emotional battle with older brother
+Four boys arrested over 'terrifying' alleged knifepoint carjacking in Darwin CBD
+Security guard stabbed during confrontation with Bondi mass murderer granted permanent visa
+Top Stories
+Australians urged to leave Israel after reported strike on Iran raises fears of escalation
+Iranian state media reports explosions heard at airport in central Iran
+This 8-year-old is learning to hunt dugong. He's also trying to save them
+Three brothers and family friend killed after ute hits tree in WA’s Wheatbelt
+Four boys arrested over 'terrifying' alleged knifepoint carjacking in Darwin CBD
+Just In
+Australia's second permanent pill testing service opens as experts warn drugs becoming 'more and more risky'
+Aussie Gabriela Ruffels in the golf major mix while red-hot Nelly Korda threatens
+Major tourist stopover to begin three-month trial restricting morning sales of some alcohol in SA
+This 8-year-old is learning to hunt dugong. He's also trying to save them
+Footer
+We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn, and work.
+Sections
+News in language
+Connect with ABC News
+More from ABC News
+This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.
+AEST = Australian Eastern Standard Time which is 10 hours ahead of GMT (Greenwich Mean Time)

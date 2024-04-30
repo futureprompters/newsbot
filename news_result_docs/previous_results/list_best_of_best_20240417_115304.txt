@@ -1,0 +1,75 @@
+https://www.theguardian.com/technology/2024/apr/16/child-sexual-abuse-content-online-ai
+### Child Sexual Abuse Content Growing Online with AI-Made Images, Report Reveals
+The National Center for Missing & Exploited Children reports a surge in child sexual exploitation online, including the use of AI-generated images and videos. Reports of online child abuse rose by over 12% in 2023, with instances of financial sexual extortion also increasing. The use of AI to create explicit content poses challenges in identifying real victims, and the quality of reports submitted to authorities needs improvement to effectively combat this growing issue.
+
+
+https://www.researchprofessionalnews.com/rr-news-europe-politics-2024-4-eu-advised-to-create-institute-to-promote-use-of-ai-in-research/
+**Title:** EU Urged to Establish AI Institute for Research Advancement
+
+**Summary:** Scientific advisors within the European Commission recommend the creation of a publicly funded institute, the European Distributed Institute for AI in Science (Ediras), to drive AI research in various fields. This proposal aims to provide researchers with cutting-edge AI resources for enhanced research outcomes.
+
+
+https://www.torontomu.ca/news-events/news/2024/04/tmu-students-build-ai-tool-to-detect-brain-tumours/
+**Title:** TMU Students Develop AI Tool for Brain Tumour Detection
+
+**Summary:** TMU students Daniel Dabir and Kamyar Saeedabadi have created a machine learning tool to detect and classify brain tumours, aiming to reduce wait times for radiologists, healthcare costs, and improve medical outcomes. By utilizing a Convolutional Neural Network, their tool provides accurate tumour classification from MRI scans, offering potential partnerships with healthcare organizations to enhance medical diagnostics.
+
+
+https://www.hsph.harvard.edu/news/features/hackathon-sparks-digital-ai-solutions-to-improve-health-care/
+**Title:** Hackathon sparks digital, AI solutions to improve health care
+
+**Summary:** The Health Systems Innovation Lab (HSIL) at Harvard T.H. Chan School of Public Health organized a hackathon where over 500 participants from around the world worked on developing innovative digital health and AI solutions to address challenges in areas such as cardiovascular disease and diabetes, cancer, and mental health. Winning ideas included "SweetAudio," a machine learning model to estimate blood glucose levels from voice analysis, and "Sam.io," an AI bot to enhance medication adherence among mental health patients. Winners will participate in a Venture Incubation Program to further develop their innovations.
+
+
+https://newsroom.uvahealth.com/2024/04/15/artificial-intelligence-tool-to-improve-heart-failure-care/
+**Title:** Artificial Intelligence Tool to Improve Heart Failure Care
+
+**Summary:** UVA Health researchers have developed a new risk assessment tool, CARNA, utilizing machine learning and artificial intelligence to predict outcomes for heart failure patients. The tool, publicly available for free, outperformed existing predictors and aims to help clinicians tailor therapies for improved patient outcomes in the face of the growing heart failure problem.
+
+
+https://www.forbes.com/sites/roberthart/2024/04/16/what-to-know-about-g42-the-emirati-ai-giant-that-just-got-a-15-billion-investment-from-microsoft/
+**Title:** Microsoft Invests $1.5 Billion in Emirati AI Firm G42: What You Need to Know
+
+**Summary:** Microsoft has decided to invest $1.5 billion in the prominent UAE-based artificial intelligence company G42, signaling increasing partnerships between the US and Abu Dhabi in the AI sector. This move comes amidst global competition, particularly with China, as countries strive to lead in AI development. G42, chaired by a prominent member of Abu Dhabi's royal family, has strong ties with major companies and has recently severed its connections with China to align with US interests. The deal includes collaboration on AI services, using Microsoft's Azure platform, and a focus on enhancing infrastructure safety and security.
+
+
+https://www.news-medical.net/news/20240415/AI-offers-hope-for-enhanced-cataract-surgery-in-developing-nations.aspx
+**Title:** AI offers hope for enhanced cataract surgery in developing nations
+
+**Summary:** Researchers from the University Hospital Bonn, the University of Bonn, the Sankara Eye Foundation India, and Microsoft Research India are working on developing an algorithm using artificial intelligence to automate the analysis of surgical videos for cataract surgeries performed in developing nations. This initiative aims to improve surgical outcomes and training in regions where cataract surgery results are often inadequate due to insufficient training.
+
+
+https://www.fastcompany.com/91106396/could-the-ai-revolution-crash-our-data-centers
+**Title:**  
+Could the AI revolution crash our data centers?
+
+**Summary:**  
+Experts are warning that the rapid growth of artificial intelligence tools is leading to an increased demand for data center capacity worldwide. The surge in data consumption, specifically from generative AI tools, could strain existing energy infrastructure and potentially cause shortages in data centers. The power-hungry nature of AI systems and technologies like Nvidia's latest AI clusters are pushing data centers to their limits, requiring improvements in supporting infrastructure and energy efficiency. Despite these challenges, there is hope for leveraging AI itself to manage energy use more efficiently and mitigate the impact on data centers.
+
+
+https://www.politico.com/newsletters/future-pulse/2024/04/16/pressure-builds-to-stop-ais-mad-science-00152284
+### Title: Pressure Mounts to Regulate AI in Genetic Engineering
+
+### Summary: 
+President Biden and bipartisan lawmakers are urging for better regulation of the use of artificial intelligence in manipulating DNA to prevent nefarious purposes. A bipartisan group has called for the development of rules to ensure safety, including measures like creating a secure database and stress testing nucleic acid synthesis providers.
+
+
+https://news.illinoisstate.edu/2024/04/isu-forms-committee-to-explore-responsible-use-of-artificial-intelligence/
+**Title:** ISU forms committee to explore responsible use of artificial intelligence
+
+**Summary:** Illinois State University has established a Committee on the Responsible Use of Artificial Intelligence to develop a strategic plan for the ethical application of AI across the campus. The committee includes faculty, staff, and students, aiming to address the impact and adoption of AI at the university while emphasizing diversity of perspectives. With a focus on fairness, accountability, and transparency in AI usage, the committee seeks to create a roadmap for implementing AI responsibly in various aspects of university operations.
+
+
+https://cointelegraph.com/news/deep-mind-ceo-google-microsoft-openai-artificial-general-intelligence-ai
+### Title: Google to Invest Over $100 Billion in Artificial General Intelligence (AGI)
+
+### Summary: 
+DeepMind's CEO, Demis Hassabis, revealed at a TED conference that Google plans to invest more than $100 billion in the development of Artificial General Intelligence (AGI). This announcement comes in response to Microsoft's ambitious "Stargate" project in collaboration with OpenAI, aiming to build a $100 billion supercomputer for training AI systems. The race between tech giants to achieve AGI signifies the growing importance and investment in advancing artificial intelligence technologies.
+
+
+https://www.cnbc.com/2024/04/14/ukraines-ai-drone-attacks-on-oil-refineries-threaten-energy-markets.html
+**Title:** Ukraine’s AI Drone Attacks on Oil Refineries Threaten Energy Markets
+
+**Summary:** Ukraine's recent drone attacks on Russian oil refineries are demonstrating the growing threat of AI-enabled drones to global energy markets. The attacks have already impacted Russian refining capacity and raised concerns about potential disruptions to oil supply chains, leading to discussions about the implications for energy markets and potential effects on oil and gasoline prices. The situation highlights the broader implications of the deployment of AI drones and their potential to disrupt global trade and energy flows.
+
+

@@ -1,0 +1,29 @@
+https://abcnews.go.com/US/wireStory/google-combining-android-software-pixel-hardware-divisions-broadly-109407358
+ABC News
+Video
+Live
+Shows
+Elections
+538
+Shop
+Stream on
+Google is combining its Android software and Pixel hardware divisions to more broadly integrate AI
+Google says it will combine the software division responsible for Android mobile software and the Chrome browser with the hardware division known for Pixel smartphones and Fitbit wearables
+SAN FRANCISCO -- Google will combine the software division responsible for Android mobile software and the Chrome browser with the hardware division known for Pixel smartphones and Fitbit wearables, the company said Thursday. It's part of a broader plan to integrate artificial intelligence more widely throughout the company.
+In a letter to employees, Google CEO Sundar Pichai said the changes will “turbocharge the Android and Chrome ecosystems” while helping to spur innovation.
+The decision will place both operations under the oversight of Rick Osterloh, a Google executive who previously oversaw the company's hardware group. Not long ago, Google insulated Android development from the hardware division, saying it wanted to avoid giving its phone designers an unfair advantage over the other major smartphone makers who used Android — including Samsung and Motorola, as well as Chinese companies such as Oppo and Xiaomi.
+Then a few years ago, Google started to position the Pixel as a flagship for demonstrating what AI could accomplish and leaned heavily into developing features that could demonstrate its potential. That meant more integration of AI hardware and software to power those features on mobile devices.
+In an interview with The Verge, a tech publication, Osterloh noted that AI is the primary reason for bringing together Google's consumer hardware and software engineers. He argued that phone technology is already growing more dependent on AI, citing the development of the Pixel camera, which among other things uses the technology for features that enhance nighttime photos or automatically choose the best of several closely timed shots.
+Combining the teams, Osterloh added, is a way for Google to move even faster on infusing AI into its features. Designing the Pixel camera several years ago, he said in the interview, required deep knowledge of not just the complex hardware and software systems involved, but also the then-early AI models used for image processing.
+“That hardware-software-AI integration really showed how AI could totally transform a user experience,” Osterloh said. “That was important. And it’s even more true today.”
+“What you’re now starting to see Google do is flex its core AI innovation engines,” said Chirag Dekate, an analyst with Gartner. “Google wants to dominate the AI, the commanding heights of the emerging AI economy, both on the consumer side as well as on the enterprise side, essentially by infusing AI everywhere and by connecting it.”
+Meanwhile, the chief of Google's software division, Hiroshi Lockheimer, is left without a title and, according to Pichai's letter, will be starting some other unnamed projects. Lockheimer did join Osterloh for the Verge interview, though, and the two men insisted the changes weren't the result of a power struggle.
+Google is also reorganizing its AI research and responsibility groups, although those changes mostly won’t directly affect consumer products — at least not for now.
+Top Stories
+Israel-Gaza live updates: Israel retaliates against Iran, US official says
+Trump hush money trial: Jury seated in case
+5 big takeaways from Day 3 of Trump's hush money trial
+USC valedictorian speaks out after school canceled her commencement speech 
+Ryan Reynolds pens sweet tribute to Michael J. Fox: 'He means a lot'
+ABC News Live
+24/7 coverage of breaking news and live events
